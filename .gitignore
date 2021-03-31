@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.vscode/
+.DS_Store
+*.local
+types/env.d.ts
+build/
+.svelte/
+pnpm-lock.yaml
+yarn-error.log
